@@ -1,0 +1,21 @@
+{
+  "name": "react-dd",
+  "version": "0.0.0",
+  "description": "For those who don't use JSX and relied on React.DOM.___ just being function calls",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smallhelm/react-dd.git"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "smallhelm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallhelm/react-dd/issues"
+  }
+}
