@@ -1,6 +1,6 @@
 {
   "name": "react-dd",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "For those who don't use JSX and relied on React.DOM.___ just being function calls",
   "main": "index.js",
   "repository": {
